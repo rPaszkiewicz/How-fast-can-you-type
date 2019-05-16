@@ -11,6 +11,7 @@ public class StoredWords{
         list.add("shit");
         list.add("happends");
         list.add("bubble");
+        list.add("gray");
     }
 
     public void print(){
